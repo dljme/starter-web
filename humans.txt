@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Darwin Jore   darwinjore@yahoo.com
 
 # THANKS
 
