@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    To the author of this tutorial.
 
 # TECHNOLOGY COLOPHON
 
